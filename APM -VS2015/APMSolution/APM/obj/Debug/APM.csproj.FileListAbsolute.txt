@@ -29,6 +29,5 @@ C:\GitHub\FrontEndProgramming\APM -VS2015\APMSolution\APM\bin\APM.dll
 C:\GitHub\FrontEndProgramming\APM -VS2015\APMSolution\APM\bin\APM.pdb
 C:\GitHub\FrontEndProgramming\APM -VS2015\APMSolution\APM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\GitHub\FrontEndProgramming\APM -VS2015\APMSolution\APM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\GitHub\FrontEndProgramming\APM -VS2015\APMSolution\APM\obj\Debug\APM.csprojResolveAssemblyReference.cache
 C:\GitHub\FrontEndProgramming\APM -VS2015\APMSolution\APM\obj\Debug\APM.dll
 C:\GitHub\FrontEndProgramming\APM -VS2015\APMSolution\APM\obj\Debug\APM.pdb
